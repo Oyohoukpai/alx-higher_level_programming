@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 ''' A Module that creates a Square object '''
 
 class Square;
